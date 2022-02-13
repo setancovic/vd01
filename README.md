@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Galerypubg
+- 👋 Hi, I’m 
 - Saya tertarik membuat website yang di hosting sendiri
 - Saya sedang belajar hal-hal baru
 - ️ Saya ingin berkolaborasi dalam pembuatan website
