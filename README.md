@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 
+
 - [![Docker Image CI](https://github.com/Galerypubg/vd03/actions/workflows/docker-image.yml/badge.svg?branch=Proaly-main)](https://github.com/Galerypubg/vd03/actions/workflows/docker-image.yml)
 - Saya tertarik membuat website yang di hosting sendiri
 - Saya sedang belajar hal-hal baru
